@@ -1,8 +1,5 @@
 <div align="center">
   <h2>👋 Hi there, I'm Mihir Kudale!</h2>
-  <div align="center">
-    <img alt="gif" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/git.gif" width="300" height="300">
-  </div>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+and+Data+Scientist;Passionate+AI+Engineer" alt="Headline">
 </div>
 
