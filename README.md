@@ -88,10 +88,6 @@
 
 ## GITHUB STATS 💯
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="GitHub Stats">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
 <p><img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with diverse people</b>. Feel free to say <b>hi</b>, I'd be happy to meet you!</em></p>
